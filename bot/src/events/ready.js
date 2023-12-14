@@ -6,7 +6,7 @@ module.exports = async(client)=>{
         status: "online",
         activities:[
             {
-                name: "Quang code",
+                name: "Quang tập code",
                 type: ActivityType.Watching,
             },
         ],
